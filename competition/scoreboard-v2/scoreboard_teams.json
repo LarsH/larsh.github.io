@@ -1,0 +1,206 @@
+{
+  "2": {
+    "name": "AUT",
+    "aff": "",
+    "vulnbox": "172.16.2.5",
+    "logo": "/assets/flags/AT.svg"
+  },
+  "3": {
+    "name": "BEL",
+    "aff": "",
+    "vulnbox": "172.16.3.5",
+    "logo": "/assets/flags/BE.svg"
+  },
+  "4": {
+    "name": "HRV",
+    "aff": "",
+    "vulnbox": "172.16.4.5",
+    "logo": "/assets/flags/HR.svg"
+  },
+  "5": {
+    "name": "CYP",
+    "aff": "",
+    "vulnbox": "172.16.5.5",
+    "logo": "/assets/flags/CY.svg"
+  },
+  "6": {
+    "name": "CZE",
+    "aff": "",
+    "vulnbox": "172.16.6.5",
+    "logo": "/assets/flags/CZ.svg"
+  },
+  "7": {
+    "name": "DNK",
+    "aff": "",
+    "vulnbox": "172.16.7.5",
+    "logo": "/assets/flags/DK.svg"
+  },
+  "8": {
+    "name": "EST",
+    "aff": "",
+    "vulnbox": "172.16.8.5",
+    "logo": "/assets/flags/EE.svg"
+  },
+  "9": {
+    "name": "FIN",
+    "aff": "",
+    "vulnbox": "172.16.9.5",
+    "logo": "/assets/flags/FI.svg"
+  },
+  "10": {
+    "name": "FRA",
+    "aff": "",
+    "vulnbox": "172.16.10.5",
+    "logo": "/assets/flags/FR.svg"
+  },
+  "11": {
+    "name": "DEU",
+    "aff": "",
+    "vulnbox": "172.16.11.5",
+    "logo": "/assets/flags/DE.svg"
+  },
+  "12": {
+    "name": "GRC",
+    "aff": "",
+    "vulnbox": "172.16.12.5",
+    "logo": "/assets/flags/GR.svg"
+  },
+  "13": {
+    "name": "HUN",
+    "aff": "",
+    "vulnbox": "172.16.13.5",
+    "logo": "/assets/flags/HU.svg"
+  },
+  "14": {
+    "name": "ISL",
+    "aff": "",
+    "vulnbox": "172.16.14.5",
+    "logo": "/assets/flags/IS.svg"
+  },
+  "15": {
+    "name": "IRL",
+    "aff": "",
+    "vulnbox": "172.16.15.5",
+    "logo": "/assets/flags/IE.svg"
+  },
+  "16": {
+    "name": "ITA",
+    "aff": "",
+    "vulnbox": "172.16.16.5",
+    "logo": "/assets/flags/IT.svg"
+  },
+  "17": {
+    "name": "LIE",
+    "aff": "",
+    "vulnbox": "172.16.17.5",
+    "logo": "/assets/flags/LI.svg"
+  },
+  "18": {
+    "name": "LUX",
+    "aff": "",
+    "vulnbox": "172.16.18.5",
+    "logo": "/assets/flags/LU.svg"
+  },
+  "19": {
+    "name": "NLD",
+    "aff": "",
+    "vulnbox": "172.16.19.5",
+    "logo": "/assets/flags/NL.svg"
+  },
+  "20": {
+    "name": "NOR",
+    "aff": "",
+    "vulnbox": "172.16.20.5",
+    "logo": "/assets/flags/NO.svg"
+  },
+  "21": {
+    "name": "POL",
+    "aff": "",
+    "vulnbox": "172.16.21.5",
+    "logo": "/assets/flags/PL.svg"
+  },
+  "22": {
+    "name": "PRT",
+    "aff": "",
+    "vulnbox": "172.16.22.5",
+    "logo": "/assets/flags/PT.svg"
+  },
+  "23": {
+    "name": "ROU",
+    "aff": "",
+    "vulnbox": "172.16.23.5",
+    "logo": "/assets/flags/RO.svg"
+  },
+  "24": {
+    "name": "SVK",
+    "aff": "",
+    "vulnbox": "172.16.24.5",
+    "logo": "/assets/flags/SK.svg"
+  },
+  "25": {
+    "name": "SVN",
+    "aff": "",
+    "vulnbox": "172.16.25.5",
+    "logo": "/assets/flags/SI.svg"
+  },
+  "26": {
+    "name": "ESP",
+    "aff": "",
+    "vulnbox": "172.16.26.5",
+    "logo": "/assets/flags/ES.svg"
+  },
+  "27": {
+    "name": "SWE",
+    "aff": "",
+    "vulnbox": "172.16.27.5",
+    "logo": "/assets/flags/SE.svg"
+  },
+  "28": {
+    "name": "CHE",
+    "aff": "",
+    "vulnbox": "172.16.28.5",
+    "logo": "/assets/flags/CH.svg"
+  },
+  "29": {
+    "name": "BGR",
+    "aff": "",
+    "vulnbox": "172.16.29.5",
+    "logo": "/assets/flags/BG.svg"
+  },
+  "30": {
+    "name": "CAN",
+    "aff": "guest",
+    "vulnbox": "172.16.30.5",
+    "logo": "/assets/flags/CA.svg"
+  },
+  "31": {
+    "name": "CRI",
+    "aff": "guest",
+    "vulnbox": "172.16.31.5",
+    "logo": "/assets/flags/CR.svg"
+  },
+  "32": {
+    "name": "GEO",
+    "aff": "guest",
+    "vulnbox": "172.16.32.5",
+    "logo": "/assets/flags/GE.svg"
+  },
+  "33": {
+    "name": "SRB",
+    "aff": "guest",
+    "vulnbox": "172.16.33.5",
+    "logo": "/assets/flags/RS.svg"
+  },
+  "34": {
+    "name": "SGP",
+    "aff": "guest",
+    "vulnbox": "172.16.34.5",
+    "logo": "/assets/flags/SG.svg"
+  },
+  "35": {
+    "name": "USA",
+    "aff": "guest",
+    "vulnbox": "172.16.35.5",
+    "logo": "/assets/flags/US.svg"
+  }
+}
